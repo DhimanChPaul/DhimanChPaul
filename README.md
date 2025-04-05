@@ -1,4 +1,4 @@
 - 👋 Hi, I’m  Dhiman Paul
-- 👀 I’m interested in open source contribution 
-- 🌱 I’m currently learning mobile app devlopment and backend development 
+- 👀 I’m interested in open source Project 
+- 🌱 Currently learning mobile app devlopment and backend development 
 - also exploring Devops
